@@ -28,9 +28,10 @@
 
 ![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameersdeshpande&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact)
 
 
 ## Top Languages
