@@ -31,8 +31,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sameersdeshpande&theme=radical)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sameersdeshpande&theme=github-compact)
-
 
 ## Top Languages
 
