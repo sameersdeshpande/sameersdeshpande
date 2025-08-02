@@ -28,6 +28,11 @@
 
 ![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameersdeshpande&show_icons=true&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)
+
+
 ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameersdeshpande&layout=compact&theme=radical)
